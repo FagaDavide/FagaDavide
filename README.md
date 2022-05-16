@@ -61,7 +61,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" width="42" height="42"/>
 </p>
           
-### Browser
+### Browsers
 <p float="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" width="42" height="42"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg" width="42" height="42"/>
