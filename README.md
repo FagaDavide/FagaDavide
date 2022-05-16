@@ -3,8 +3,9 @@
 ## My Skills
 
 ### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" style="vertical-align:middle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" style="vertical-align:middle"/>
+<p float="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="42" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42"/>
@@ -13,8 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="42" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="42" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="42" height="42"/>
-
-
+</p>
 
 
 ### Frameworks && Tools
