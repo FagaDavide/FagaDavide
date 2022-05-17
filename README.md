@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Davide
 
 ## My Skills
-
+I'm a jack of all trades, expert in nothing
 ### Languages
 <p float="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42"/>
